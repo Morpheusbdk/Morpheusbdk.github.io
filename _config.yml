@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Morpheusbdk.github.io
+title: Vinicius Rastely a.k.a Morpheusbdk
+tagline: A log of everyday life
+description: Security Research & Dev in Py | C | Bash 
+paginate: 5
